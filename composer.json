@@ -6,7 +6,7 @@
     "bot",
     "sdk"
   ],
-  "type": "library",
+  "type": "project",
   "homepage": "https://github.com/line/line-bot-sdk-php",
   "license": "Apache License Version 2.0",
   "authors": [
