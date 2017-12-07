@@ -63,6 +63,7 @@ class CarouselTemplateBuilder implements TemplateBuilder
         $this->template = [
             'type' => TemplateType::CAROUSEL,
             'columns' => $columns,
+            'imageSize' => 'contain',
         ];
 
         return $this->template;
